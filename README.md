@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hallo Semua!!! Saya zidan Syauqi Rahman
 
+![kartun kesukaan](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ2NjJsenh6ZTl0MHhoMTkya2pxaHdmdTRnZ2lqa3kybzF3MmdqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4OV1bLOIWwIXRxpXlN/giphy.gif)
 <!--
 **lookatthemoo/lookatthemoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Saya sedang belajar web di **codepolitan**
+- 🌱 Saya sedan mendalami **Javascript**
